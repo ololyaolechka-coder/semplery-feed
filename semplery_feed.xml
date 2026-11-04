@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-04T17:30:56+03:00">
+<yml_catalog date="2026-11-04T18:05:58+03:00">
 <shop>
 <name>SEMPLERY</name>
 <company>SEMPLERY</company>
@@ -479,7 +479,7 @@
 </offer>
 <offer id="3957" group_id="3958" available="true">
 <url>https://semplery.ru/catalog/woman/3958.html?product_id=3957</url>
-<name>Платье U черное крупные цветы</name>
+<name>Платье U черный крупные цветы</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>UDR017-2</vendorCode>
 <price>17600</price>
@@ -543,7 +543,7 @@
 </offer>
 <offer id="3977" group_id="3978" available="true">
 <url>https://semplery.ru/catalog/woman/3978.html?product_id=3977</url>
-<name>Платье U черное мелкие цветы</name>
+<name>Платье U черный мелкие цветы</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>UDR017-1</vendorCode>
 <price>17600</price>
@@ -10523,7 +10523,7 @@
 </offer>
 <offer id="2238" group_id="2237" available="true">
 <url>https://semplery.ru/catalog/woman/2237.html?product_id=2238</url>
-<name>Футболка со складкой серая мелаж</name>
+<name>Футболка со складкой серый мелаж</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>OTSH5U</vendorCode>
 <price>2700</price>
@@ -10548,7 +10548,7 @@
 </offer>
 <offer id="2239" group_id="2237" available="true">
 <url>https://semplery.ru/catalog/woman/2237.html?product_id=2239</url>
-<name>Футболка со складкой серая мелаж</name>
+<name>Футболка со складкой серый мелаж</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>OTSH5U</vendorCode>
 <price>2700</price>
@@ -12734,6 +12734,22 @@
 <param name="Размер" unit="INT">M-L</param>
 <param name="Пол">Женский</param>
 <param name="Цвет">Молочный</param>
+</offer>
+<offer id="4051" group_id="4053" available="true">
+<url>https://semplery.ru/catalog/woman/4053.html?product_id=4051</url>
+<name>Брюки СОН</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>SONPAN2</vendorCode>
+<price>7000</price>
+<currencyId>RUB</currencyId>
+<categoryId>15</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/c07/q0dzemhxy9bzmjf3e65mp6nzg18twnba.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/a41/v5zf2q47nny6n6xzbkl7weur07ekbrv3.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/e82/yu1vkblafooan1r37lcr2iiefy4vyl1w.jpg</picture>
+<description><![CDATA[Брюки-алладины с расслабленным силуэтом и мягкой драпировкой ткани.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
 </offer>
 </offers>
 </shop>
