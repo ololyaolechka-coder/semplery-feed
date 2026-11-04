@@ -40,9 +40,10 @@ except ImportError:
 BASE = "https://semplery.ru"
 import os
 OUTPUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "semplery_feed.xml")
-DELAY = (1.0, 2.0)          # пауза между запросами, сек (чтобы не забанили)
+DELAY = (0.5, 1.0)          # пауза между запросами, сек (чтобы не забанили)
 SKIP_UNAVAILABLE = False    # True — не выгружать размеры не в наличии
 SKIP_SAMPLES = True         # не выгружать образцы и товары с дефектами
+ALWAYS_INCLUDE = {"4053"}   # id товаров (из URL), которые фильтр образцов ошибочно отсекает: Брюки СОН
 SALES_NOTES = "Оплата картой онлайн. Доставка СДЭК по России"   # до 50 символов
 
 # Разделы каталога. Порядок = приоритет при выборе категории товара:
@@ -169,7 +170,12 @@ def fix_name(name):
     g = noun_gender(name)
     words = name.split()
     # согласуем последнее слово-цвет («серо-бежевый» -> «серо-бежевая»)
-    for i in range(len(words) - 1, 0, -1):
+    # цвет должен стоять в конце (допускается только «(образец)» после него):
+    # «Футболка серый мелаж» не трогаем — там «серый» относится к «мелаж»
+    i = len(words) - 1
+    while i > 0 and words[i].startswith("(") :
+        i -= 1
+    for i in [i] if i > 0 else []:
         parts = words[i].split("-")
         if COLOR_RE.match(parts[-1].lower()):
             parts[-1] = agree(parts[-1], g)
@@ -332,6 +338,7 @@ def parse_product(page_html, url):
     soup = BeautifulSoup(page_html, "lxml")
     data = soup.select_one("#catalogDetailData")
     if not data:
+        print(f"  нет данных о размерах на странице: {url}", file=sys.stderr)
         return None
 
     product_id = re.search(r"/(\d+)\.html", url).group(1)
@@ -350,7 +357,8 @@ def parse_product(page_html, url):
     first_sentence = re.split(r"(?<=[.!?])\s+", raw_desc)[0][:150]
     # образец: «(образец)» в названии или описание начинается с пометки об образце/дефекте
     is_sample = "образец" in name.lower() or bool(DEFECT_RE.search(first_sentence))
-    if SKIP_SAMPLES and is_sample:
+    if SKIP_SAMPLES and is_sample and product_id not in ALWAYS_INCLUDE:
+        print(f"  пропущен как образец: {name}", file=sys.stderr)
         return []
     description = clean_description(desc_node)
 
