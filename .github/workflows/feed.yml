@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "17 2 * * *"   # каждый день в 05:17 по Москве
   workflow_dispatch:         # кнопка ручного запуска
+  push:
+    paths:
+      - semplery_feed.py     # пересборка сразу после обновления скрипта
 
 permissions:
   contents: write
