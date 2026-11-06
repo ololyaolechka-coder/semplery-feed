@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-05T03:07:00+03:00">
+<yml_catalog date="2026-11-06T03:08:13+03:00">
 <shop>
 <name>SEMPLERY</name>
 <company>SEMPLERY</company>
@@ -3003,6 +3003,50 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Бежевый</param>
 </offer>
+<offer id="4566" group_id="4568" available="true">
+<url>https://semplery.ru/catalog/woman/4568.html?product_id=4566</url>
+<name>Костюм Этюд 2.0 красный</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ETUDE2.15</vendorCode>
+<price>18600</price>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/72e/bf1kgfifdl0lkmbe2b8h3h8mqcpdm78r.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b63/v9an6dpf3stwdfck3xd46kushq90ir0l.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/978/mrt779su1ogppugwrloo6easoucbgxlj.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/e1f/50z0rsh0jb42op1j75a1ypprgbih2hf8.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/919/sq46uf8mckyx1jfgf8mic74zdkkx07ez.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/917/830arqteg8uikxk7w0lm0otqwjnztw2a.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/72c/tgxv5834e4cso1cc9hq60dtfiqox9dwx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/12e/7rha7yc6re26w3c2gcdnr9ivjbb53qn3.jpg</picture>
+<description><![CDATA[Элегантный костюм-тройка в насыщенном красном оттенке.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="4567" group_id="4568" available="true">
+<url>https://semplery.ru/catalog/woman/4568.html?product_id=4567</url>
+<name>Костюм Этюд 2.0 красный</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ETUDE2.15</vendorCode>
+<price>18600</price>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/72e/bf1kgfifdl0lkmbe2b8h3h8mqcpdm78r.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b63/v9an6dpf3stwdfck3xd46kushq90ir0l.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/978/mrt779su1ogppugwrloo6easoucbgxlj.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/e1f/50z0rsh0jb42op1j75a1ypprgbih2hf8.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/919/sq46uf8mckyx1jfgf8mic74zdkkx07ez.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/917/830arqteg8uikxk7w0lm0otqwjnztw2a.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/72c/tgxv5834e4cso1cc9hq60dtfiqox9dwx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/12e/7rha7yc6re26w3c2gcdnr9ivjbb53qn3.jpg</picture>
+<description><![CDATA[Элегантный костюм-тройка в насыщенном красном оттенке.]]></description>
+<param name="Размер" unit="INT">M-L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Красный</param>
+</offer>
 <offer id="4555" group_id="4561" available="true">
 <url>https://semplery.ru/catalog/woman/4561.html?product_id=4555</url>
 <name>Костюм Эрин с галстуком бежевый</name>
@@ -3173,6 +3217,48 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Черный</param>
 </offer>
+<offer id="4563" group_id="4565" available="true">
+<url>https://semplery.ru/catalog/woman/4565.html?product_id=4563</url>
+<name>Костюм Моника ваниль</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>MONIKA22</vendorCode>
+<price>44600</price>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/407/swemzwovmkl0mr9ypheftwbrw39hszla.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/e3a/vdr1o66jmiy9k3nr4ky2tcqcljmlfjc6.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/ed6/epuftvwbejcgb1s88haayc7238s7px2h.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/76e/bxjnkoa3a3el8aebqehdz4dlg0nj8men.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/c62/nw7b0cz9ebw37deev142fvxt11jbrdtn.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/b31/obyr1bzgsss13ggby2q49rctch3zen6z.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/643/en3ao73u9cmacheky13enuky23htusih.JPG</picture>
+<description><![CDATA[Фактурный костюм-двойка из приталенного жакета и прямых брюк палаццо.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="4564" group_id="4565" available="false">
+<url>https://semplery.ru/catalog/woman/4565.html?product_id=4564</url>
+<name>Костюм Моника ваниль</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>MONIKA22</vendorCode>
+<price>44600</price>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/407/swemzwovmkl0mr9ypheftwbrw39hszla.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/e3a/vdr1o66jmiy9k3nr4ky2tcqcljmlfjc6.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/ed6/epuftvwbejcgb1s88haayc7238s7px2h.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/76e/bxjnkoa3a3el8aebqehdz4dlg0nj8men.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/c62/nw7b0cz9ebw37deev142fvxt11jbrdtn.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/b31/obyr1bzgsss13ggby2q49rctch3zen6z.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/643/en3ao73u9cmacheky13enuky23htusih.JPG</picture>
+<description><![CDATA[Фактурный костюм-двойка из приталенного жакета и прямых брюк палаццо.]]></description>
+<param name="Размер" unit="INT">M-L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Белый</param>
+</offer>
 <offer id="4549" group_id="4551" available="true">
 <url>https://semplery.ru/catalog/woman/4551.html?product_id=4549</url>
 <name>Костюм Моника розовый</name>
@@ -3182,7 +3268,6 @@
 <currencyId>RUB</currencyId>
 <categoryId>11</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/19b/fct6ee5a33xi3fl8pdyvhehtjma7g2f0.JPG</picture>
 <picture>https://semplery.ru/upload/iblock/887/p3ruk0l9ho1c4x721elxcbdcjsfu2sub.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/fc0/mzh26w82n5u9jugu2j6sqnyx73yz2d7h.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/827/w5g5baiod2o6efz4n6v6f85uvphx5nlf.jpg</picture>
@@ -3201,7 +3286,6 @@
 <currencyId>RUB</currencyId>
 <categoryId>11</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/19b/fct6ee5a33xi3fl8pdyvhehtjma7g2f0.JPG</picture>
 <picture>https://semplery.ru/upload/iblock/887/p3ruk0l9ho1c4x721elxcbdcjsfu2sub.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/fc0/mzh26w82n5u9jugu2j6sqnyx73yz2d7h.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/827/w5g5baiod2o6efz4n6v6f85uvphx5nlf.jpg</picture>
@@ -3476,6 +3560,27 @@
 <param name="Размер">One Size</param>
 <param name="Пол">Женский</param>
 <param name="Цвет">Розовый</param>
+</offer>
+<offer id="4569" group_id="4570" available="true">
+<url>https://semplery.ru/catalog/woman/4570.html?product_id=4569</url>
+<name>Рубашка Дива серо-голубая</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>DIVASH29</vendorCode>
+<price>27000</price>
+<currencyId>RUB</currencyId>
+<categoryId>13</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/5d9/7vk7moaznrs7wr7jdbdmxt8hxjoco5du.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ebd/rs11jbu5pw9uiqcovi55zacotl5hj79y.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/dfd/wfiap29zonb2lq4bxmoo92im2jh65zpo.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/d01/alvq7z87pprga2jtw6fpcisrxqyt8anp.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/da5/vyxwyvu62pzn61n5gdb3dsklhh95hf64.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/b8b/vp7sspe7bq2rzfrc5trblk2ggb0vf2dw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b68/0gu7vie3sjbjim2hl6lpvo9tljryg53m.jpg</picture>
+<description><![CDATA[Эффектная рубашка свободного прямого кроя.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Серый</param>
 </offer>
 <offer id="4471" group_id="4473" available="true">
 <url>https://semplery.ru/catalog/woman/4473.html?product_id=4471</url>
