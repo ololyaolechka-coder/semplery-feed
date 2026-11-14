@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13T03:04:18+03:00">
+<yml_catalog date="2026-11-14T03:06:22+03:00">
 <shop>
 <name>SEMPLERY</name>
 <company>SEMPLERY</company>
@@ -18,6 +18,63 @@
 <category id="18" parentId="1">Спорт</category>
 </categories>
 <offers>
+<offer id="4571" group_id="4574" available="true">
+<url>https://semplery.ru/catalog/woman/4574.html?product_id=4571</url>
+<name>Платье Дикий ангел марсала</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ANGEL31</vendorCode>
+<price>17400</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/81c/l73n4jxtwt21g817q526ho6o37akhfk1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cff/dauv3vxr49nujtwg1sb0psold7vkf4ig.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ea6/3m7s2rionn6498ve9y5eg1zmyyfsk2rb.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/afa/mxysm1m7ms69f3xbb3u820kshkg2liu8.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/53d/rqftqpvvxomtcs8fx68r17b4o3h86uom.jpg</picture>
+<description><![CDATA[Платье-мини из ткани с объемными цветами.]]></description>
+<param name="Размер" unit="INT">XS</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="4572" group_id="4574" available="true">
+<url>https://semplery.ru/catalog/woman/4574.html?product_id=4572</url>
+<name>Платье Дикий ангел марсала</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ANGEL31</vendorCode>
+<price>17400</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/81c/l73n4jxtwt21g817q526ho6o37akhfk1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cff/dauv3vxr49nujtwg1sb0psold7vkf4ig.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ea6/3m7s2rionn6498ve9y5eg1zmyyfsk2rb.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/afa/mxysm1m7ms69f3xbb3u820kshkg2liu8.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/53d/rqftqpvvxomtcs8fx68r17b4o3h86uom.jpg</picture>
+<description><![CDATA[Платье-мини из ткани с объемными цветами.]]></description>
+<param name="Размер" unit="INT">S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="4573" group_id="4574" available="true">
+<url>https://semplery.ru/catalog/woman/4574.html?product_id=4573</url>
+<name>Платье Дикий ангел марсала</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ANGEL31</vendorCode>
+<price>17400</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/81c/l73n4jxtwt21g817q526ho6o37akhfk1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cff/dauv3vxr49nujtwg1sb0psold7vkf4ig.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ea6/3m7s2rionn6498ve9y5eg1zmyyfsk2rb.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/afa/mxysm1m7ms69f3xbb3u820kshkg2liu8.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/53d/rqftqpvvxomtcs8fx68r17b4o3h86uom.jpg</picture>
+<description><![CDATA[Платье-мини из ткани с объемными цветами.]]></description>
+<param name="Размер" unit="INT">M</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Коричневый</param>
+</offer>
 <offer id="4527" group_id="4528" available="true">
 <url>https://semplery.ru/catalog/woman/4528.html?product_id=4527</url>
 <name>Платье Роузи черное</name>
@@ -388,7 +445,7 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Красный</param>
 </offer>
-<offer id="4460" group_id="4461" available="true">
+<offer id="4460" group_id="4461" available="false">
 <url>https://semplery.ru/catalog/woman/4461.html?product_id=4460</url>
 <name>Платье Эва красное</name>
 <vendor>SEMPLERY</vendor>
@@ -1011,7 +1068,7 @@
 <name>Платье Дикий ангел белое</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL1</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1032,7 +1089,7 @@
 <name>Платье Дикий ангел белое</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL1</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1053,7 +1110,7 @@
 <name>Платье Дикий ангел белое</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL1</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1134,7 +1191,7 @@
 <name>Платье Дикий ангел темно-коралловый</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL15</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1154,7 +1211,7 @@
 <name>Платье Дикий ангел темно-коралловый</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL15</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1174,7 +1231,7 @@
 <name>Платье Дикий ангел темно-коралловый</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL15</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1194,7 +1251,7 @@
 <name>Платье Дикий ангел черное</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL0</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1213,7 +1270,7 @@
 <name>Платье Дикий ангел черное</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL0</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
@@ -1232,7 +1289,7 @@
 <name>Платье Дикий ангел черное</name>
 <vendor>SEMPLERY</vendor>
 <vendorCode>ANGEL0</vendorCode>
-<price>19600</price>
+<price>17400</price>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
