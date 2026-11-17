@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16T03:14:37+03:00">
+<yml_catalog date="2026-11-17T03:05:48+03:00">
 <shop>
 <name>SEMPLERY</name>
 <company>SEMPLERY</company>
@@ -18,6 +18,157 @@
 <category id="18" parentId="1">Спорт</category>
 </categories>
 <offers>
+<offer id="4423" group_id="4424" available="true">
+<url>https://semplery.ru/catalog/woman/4424.html?product_id=4423</url>
+<name>Платье «Дорогая» розовое</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>NYDR3</vendorCode>
+<price>26600</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/31a/b1xiq2ijq9am1fnqoam0qtmj9lpmeu0d.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/f7e/pil1pa22xzfm7a0bszkc53tdm9qomgv3.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/1ca/p3uvg4hpkgwnw1c134fql9ttszn07pni.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b6a/syf8c11yl09rn50dhzi7d3lctih9zdtu.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/755/809qkfusgcq3zl9anfa3du2vzc4kn8gt.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cd4/kd6utsgovmhycfb94ozab0sopaqq5952.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/3de/mse960oio8rfv415v8blsbhpunlkok68.jpg</picture>
+<description><![CDATA[Платье макси из расшитой пайетками ткани, созданное для особых случаев.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+</offer>
+<offer id="4582" group_id="4586" available="true">
+<url>https://semplery.ru/catalog/woman/4586.html?product_id=4582</url>
+<name>Платье «Дорогая» бирюзовое</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>NYDR30</vendorCode>
+<price>28600</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/c42/og6vjko9d25z196y7ffbzrwknnlusyne.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/013/62f1fiwq79p21wqtvc5arngnre43cgu5.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/370/86ikthvya2o6t1432il5amwgdsbvkxgi.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/3a1/s2n9u6yphv1wygrysb6wneetbrhz1y88.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/7a5/qzrebo0ijd17drzobuejjcab9cljstr1.PNG</picture>
+<description><![CDATA[Платье макси из расшитой пайетками ткани, созданное для особых случаев.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+</offer>
+<offer id="4581" group_id="4585" available="true">
+<url>https://semplery.ru/catalog/woman/4585.html?product_id=4581</url>
+<name>Платье «Дорогая» белое</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>NYDR1</vendorCode>
+<price>28600</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/153/g171t8iun89pqlh0hw3ma1ot0ceimaea.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/355/r95whawiislo0bq91bwxorn0yq0oev2p.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/d28/5ifrr9hb1jxffg3o7u2q45gy0ztib1e5.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/ed8/kp7tte1bl1l6i3d2bs1uce8ho1dfd8cy.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/8e3/bl8cxgwkdjuq1he15g131gqcd42l612h.PNG</picture>
+<description><![CDATA[Платье макси из расшитой пайетками ткани, созданное для особых случаев.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer id="4580" group_id="4584" available="true">
+<url>https://semplery.ru/catalog/woman/4584.html?product_id=4580</url>
+<name>Платье «Дорогая» бежевое</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>NYDR12</vendorCode>
+<price>28600</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/10b/me2oktyjr0tw5dc33g0rd9u5dmwuhp8h.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/54f/59h09s4fb94a22g9ixh31ce6yc2lzxc6.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/6f4/mudybfqm2ascib6bzs4j2565rfwyvw50.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/1d5/hlz21chn3tcmdwuecp322k6fpgbuyof8.PNG</picture>
+<description><![CDATA[Платье макси из расшитой пайетками ткани, созданное для особых случаев.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Бежевый</param>
+</offer>
+<offer id="4579" group_id="4583" available="true">
+<url>https://semplery.ru/catalog/woman/4583.html?product_id=4579</url>
+<name>Платье «Дорогая» светло-розовое</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>NYDR3-1</vendorCode>
+<price>28600</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/6c6/1ho7ycbsv6vy18gw75rq659mqimz01n3.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/efe/l2hejfpcqy3duafohm01if0i4qzuy1q1.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/283/ev2fvfrerlul4iapvx7e14gpdz1z72xi.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/74e/p6qcv12x026j05ovmrrxv02d0bqkk3w2.PNG</picture>
+<description><![CDATA[Платье макси из расшитой пайетками ткани, созданное для особых случаев.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Ваниль</param>
+</offer>
+<offer id="4575" group_id="4578" available="true">
+<url>https://semplery.ru/catalog/woman/4578.html?product_id=4575</url>
+<name>Платье Дикий ангел тайна океана</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ANGEL32</vendorCode>
+<price>17400</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/489/a0phjed1kvdv1c8l10eavqkaibnc7q2d.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/d65/f0t6f53neevdefhnnchy4r1ddlwwn539.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cc5/jumu3zmeqz1fusdw1cy7qkpwykvw853o.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/42e/b3j2n7qoounlv6mj10r4xa1tanyjisdn.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/270/7lrdrnmiahvjo2nfsz9hn2ttu06ku3yq.jpg</picture>
+<description><![CDATA[Платье-мини из ткани с объемными цветами.]]></description>
+<param name="Размер" unit="INT">XS</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленый</param>
+</offer>
+<offer id="4576" group_id="4578" available="true">
+<url>https://semplery.ru/catalog/woman/4578.html?product_id=4576</url>
+<name>Платье Дикий ангел тайна океана</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ANGEL32</vendorCode>
+<price>17400</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/489/a0phjed1kvdv1c8l10eavqkaibnc7q2d.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/d65/f0t6f53neevdefhnnchy4r1ddlwwn539.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cc5/jumu3zmeqz1fusdw1cy7qkpwykvw853o.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/42e/b3j2n7qoounlv6mj10r4xa1tanyjisdn.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/270/7lrdrnmiahvjo2nfsz9hn2ttu06ku3yq.jpg</picture>
+<description><![CDATA[Платье-мини из ткани с объемными цветами.]]></description>
+<param name="Размер" unit="INT">S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленый</param>
+</offer>
+<offer id="4577" group_id="4578" available="true">
+<url>https://semplery.ru/catalog/woman/4578.html?product_id=4577</url>
+<name>Платье Дикий ангел тайна океана</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>ANGEL32</vendorCode>
+<price>17400</price>
+<currencyId>RUB</currencyId>
+<categoryId>10</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/489/a0phjed1kvdv1c8l10eavqkaibnc7q2d.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/d65/f0t6f53neevdefhnnchy4r1ddlwwn539.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cc5/jumu3zmeqz1fusdw1cy7qkpwykvw853o.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/42e/b3j2n7qoounlv6mj10r4xa1tanyjisdn.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/270/7lrdrnmiahvjo2nfsz9hn2ttu06ku3yq.jpg</picture>
+<description><![CDATA[Платье-мини из ткани с объемными цветами.]]></description>
+<param name="Размер" unit="INT">M</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленый</param>
+</offer>
 <offer id="4571" group_id="4574" available="true">
 <url>https://semplery.ru/catalog/woman/4574.html?product_id=4571</url>
 <name>Платье Дикий ангел марсала</name>
@@ -27,7 +178,7 @@
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/81c/l73n4jxtwt21g817q526ho6o37akhfk1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/64b/2sdit22ra0n69019ujoh3bsmlvn9t57i.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/cff/dauv3vxr49nujtwg1sb0psold7vkf4ig.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/ea6/3m7s2rionn6498ve9y5eg1zmyyfsk2rb.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/afa/mxysm1m7ms69f3xbb3u820kshkg2liu8.jpg</picture>
@@ -46,7 +197,7 @@
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/81c/l73n4jxtwt21g817q526ho6o37akhfk1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/64b/2sdit22ra0n69019ujoh3bsmlvn9t57i.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/cff/dauv3vxr49nujtwg1sb0psold7vkf4ig.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/ea6/3m7s2rionn6498ve9y5eg1zmyyfsk2rb.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/afa/mxysm1m7ms69f3xbb3u820kshkg2liu8.jpg</picture>
@@ -65,7 +216,7 @@
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/81c/l73n4jxtwt21g817q526ho6o37akhfk1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/64b/2sdit22ra0n69019ujoh3bsmlvn9t57i.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/cff/dauv3vxr49nujtwg1sb0psold7vkf4ig.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/ea6/3m7s2rionn6498ve9y5eg1zmyyfsk2rb.jpg</picture>
 <picture>https://semplery.ru/upload/iblock/afa/mxysm1m7ms69f3xbb3u820kshkg2liu8.jpg</picture>
@@ -93,28 +244,6 @@
 <param name="Размер">One Size</param>
 <param name="Пол">Женский</param>
 <param name="Цвет">Черный</param>
-</offer>
-<offer id="4423" group_id="4424" available="true">
-<url>https://semplery.ru/catalog/woman/4424.html?product_id=4423</url>
-<name>Платье «Дорогая» розовое</name>
-<vendor>SEMPLERY</vendor>
-<vendorCode>NYDR3</vendorCode>
-<price>26600</price>
-<currencyId>RUB</currencyId>
-<categoryId>10</categoryId>
-<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/1ca/p3uvg4hpkgwnw1c134fql9ttszn07pni.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/069/hk7nrm5k57bkjnip3tz632pizr2mzj76.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/31a/b1xiq2ijq9am1fnqoam0qtmj9lpmeu0d.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/f7e/pil1pa22xzfm7a0bszkc53tdm9qomgv3.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/b6a/syf8c11yl09rn50dhzi7d3lctih9zdtu.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/755/809qkfusgcq3zl9anfa3du2vzc4kn8gt.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/cd4/kd6utsgovmhycfb94ozab0sopaqq5952.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/3de/mse960oio8rfv415v8blsbhpunlkok68.jpg</picture>
-<description><![CDATA[Платье макси из расшитой пайетками ткани, созданное для особых случаев.]]></description>
-<param name="Размер">One Size</param>
-<param name="Пол">Женский</param>
-<param name="Цвет">Розовый</param>
 </offer>
 <offer id="4484" group_id="4487" available="true">
 <url>https://semplery.ru/catalog/woman/4487.html?product_id=4484</url>
@@ -445,7 +574,7 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Красный</param>
 </offer>
-<offer id="4460" group_id="4461" available="false">
+<offer id="4460" group_id="4461" available="true">
 <url>https://semplery.ru/catalog/woman/4461.html?product_id=4460</url>
 <name>Платье Эва красное</name>
 <vendor>SEMPLERY</vendor>
@@ -4017,7 +4146,7 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Мокко</param>
 </offer>
-<offer id="4469" group_id="4470" available="true">
+<offer id="4469" group_id="4470" available="false">
 <url>https://semplery.ru/catalog/woman/4470.html?product_id=4469</url>
 <name>Рубашка Дива бежевая</name>
 <vendor>SEMPLERY</vendor>
@@ -9169,6 +9298,110 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Серый</param>
 </offer>
+<offer id="4614" group_id="4615" available="true">
+<url>https://semplery.ru/catalog/woman/4615.html?product_id=4614</url>
+<name>Свитер Миранда с платком шоколадный меланж</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>MIRANDA35</vendorCode>
+<price>15600</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/21a/nc4vglkane1ul2a2exfb2g53g1ykau3y.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/378/tcpxq5vxh2wr1svc16t6gqtiqow2o2me.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b2c/8ntm90a3598ycogedwlxhco3ct1wuhck.jpg</picture>
+<description><![CDATA[Уютный вязаный свитер прямого свободного кроя в комплекте с объемным платком.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Шоколадный</param>
+</offer>
+<offer id="4612" group_id="4613" available="true">
+<url>https://semplery.ru/catalog/woman/4613.html?product_id=4612</url>
+<name>Свитер Стелла красный</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>STELLA15</vendorCode>
+<price>11600</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/428/woowjucfgau39xmnvdixprfq6xpo433v.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/282/sx2z6qwfmo4uph9idfq16yg5bz66vkw9.jpg</picture>
+<description><![CDATA[Мягкий базовый свитер свободного прямого силуэта.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="4610" group_id="4611" available="true">
+<url>https://semplery.ru/catalog/woman/4611.html?product_id=4610</url>
+<name>Свитер Стелла шоколадный</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>STELLA14</vendorCode>
+<price>11600</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<description><![CDATA[Мягкий базовый свитер свободного прямого силуэта.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="4588" group_id="4590" available="true">
+<url>https://semplery.ru/catalog/woman/4590.html?product_id=4588</url>
+<name>Бадлон Лотос терракот</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>LOTOS36</vendorCode>
+<price>11600</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/7de/d7pq0zauql66p7xd28j8lno0dnre1nw3.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/a48/8m3dyoeisprqtlfhn7e9gaxrht2kr76h.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/674/vghqkm5huvrnqqmeu7wfbukmx917563n.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/0c2/sjaniyjuog3l0r6htj4b80uz5wia2b22.PNG</picture>
+<description><![CDATA[Базовый свободный бадлон для комфортных повседневных образов.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Коричневый</param>
+</offer>
+<offer id="4589" group_id="4591" available="true">
+<url>https://semplery.ru/catalog/woman/4591.html?product_id=4589</url>
+<name>Бадлон Лотос молочный</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>LOTOS2</vendorCode>
+<price>11600</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/d9c/chjjp9l0g9lcpe5y63t6nmayy6ucaish.jpg</picture>
+<description><![CDATA[Базовый свободный бадлон для комфортных повседневных образов.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Молочный</param>
+</offer>
+<offer id="4587" group_id="4592" available="true">
+<url>https://semplery.ru/catalog/woman/4592.html?product_id=4587</url>
+<name>Бадлон Лотос хаки</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>LOTOS8</vendorCode>
+<price>11600</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/d24/ahvzzp0ah3b86s65fhpsfd0xklwdzphc.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/423/4qkt89zy1wdywziqjkmfom0713g4at8u.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/524/6vidxs0awga93812qyew8n1ud50qc1u0.PNG</picture>
+<description><![CDATA[Базовый свободный бадлон для комфортных повседневных образов.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленый</param>
+</offer>
 <offer id="3966" group_id="3967" available="true">
 <url>https://semplery.ru/catalog/woman/3967.html?product_id=3966</url>
 <name>Жилетка Марлен молочная</name>
@@ -11196,6 +11429,227 @@
 <param name="Размер" unit="INT">M-L</param>
 <param name="Пол">Женский</param>
 <param name="Цвет">Черный</param>
+</offer>
+<offer id="4602" group_id="4609" available="true">
+<url>https://semplery.ru/catalog/woman/4609.html?product_id=4602</url>
+<name>Юбка Оливия молочная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>OLIVIA2</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/a8e/uvtr67hhdjqm5wjif1rtec6w2eshhd6p.png</picture>
+<picture>https://semplery.ru/upload/iblock/00c/7nzvlxckjaap4b1tzu5smpnux6adeoog.jpg</picture>
+<description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Молочный</param>
+</offer>
+<offer id="4603" group_id="4609" available="true">
+<url>https://semplery.ru/catalog/woman/4609.html?product_id=4603</url>
+<name>Юбка Оливия молочная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>OLIVIA2</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/a8e/uvtr67hhdjqm5wjif1rtec6w2eshhd6p.png</picture>
+<picture>https://semplery.ru/upload/iblock/00c/7nzvlxckjaap4b1tzu5smpnux6adeoog.jpg</picture>
+<description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
+<param name="Размер" unit="INT">M</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Молочный</param>
+</offer>
+<offer id="4604" group_id="4609" available="true">
+<url>https://semplery.ru/catalog/woman/4609.html?product_id=4604</url>
+<name>Юбка Оливия молочная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>OLIVIA2</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/a8e/uvtr67hhdjqm5wjif1rtec6w2eshhd6p.png</picture>
+<picture>https://semplery.ru/upload/iblock/00c/7nzvlxckjaap4b1tzu5smpnux6adeoog.jpg</picture>
+<description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
+<param name="Размер" unit="INT">L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Молочный</param>
+</offer>
+<offer id="4605" group_id="4608" available="true">
+<url>https://semplery.ru/catalog/woman/4608.html?product_id=4605</url>
+<name>Юбка Оливия красная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>OLIVIA15</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="4606" group_id="4608" available="true">
+<url>https://semplery.ru/catalog/woman/4608.html?product_id=4606</url>
+<name>Юбка Оливия красная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>OLIVIA15</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
+<param name="Размер" unit="INT">M</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="4607" group_id="4608" available="true">
+<url>https://semplery.ru/catalog/woman/4608.html?product_id=4607</url>
+<name>Юбка Оливия красная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>OLIVIA15</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
+<param name="Размер" unit="INT">L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer id="4598" group_id="4601" available="true">
+<url>https://semplery.ru/catalog/woman/4601.html?product_id=4598</url>
+<name>Юбка Лия разноцветная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>LIYA38</vendorCode>
+<price>14900</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/a48/8m3dyoeisprqtlfhn7e9gaxrht2kr76h.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/423/4qkt89zy1wdywziqjkmfom0713g4at8u.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/0e2/5bzrqbmno3opzed6q4no8pt1oi2o77fw.PNG</picture>
+<description><![CDATA[Эффектная юбка-миди прямого кроя из плотного бархатного жаккарда с деликатным.]]></description>
+<param name="Размер" unit="INT">XS</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Разноцветный</param>
+</offer>
+<offer id="4599" group_id="4601" available="true">
+<url>https://semplery.ru/catalog/woman/4601.html?product_id=4599</url>
+<name>Юбка Лия разноцветная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>LIYA38</vendorCode>
+<price>14900</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/a48/8m3dyoeisprqtlfhn7e9gaxrht2kr76h.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/423/4qkt89zy1wdywziqjkmfom0713g4at8u.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/0e2/5bzrqbmno3opzed6q4no8pt1oi2o77fw.PNG</picture>
+<description><![CDATA[Эффектная юбка-миди прямого кроя из плотного бархатного жаккарда с деликатным.]]></description>
+<param name="Размер" unit="INT">S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Разноцветный</param>
+</offer>
+<offer id="4600" group_id="4601" available="true">
+<url>https://semplery.ru/catalog/woman/4601.html?product_id=4600</url>
+<name>Юбка Лия разноцветная</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>LIYA38</vendorCode>
+<price>14900</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/a48/8m3dyoeisprqtlfhn7e9gaxrht2kr76h.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/423/4qkt89zy1wdywziqjkmfom0713g4at8u.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/0e2/5bzrqbmno3opzed6q4no8pt1oi2o77fw.PNG</picture>
+<description><![CDATA[Эффектная юбка-миди прямого кроя из плотного бархатного жаккарда с деликатным.]]></description>
+<param name="Размер" unit="INT">M</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Разноцветный</param>
+</offer>
+<offer id="4593" group_id="4597" available="true">
+<url>https://semplery.ru/catalog/woman/4597.html?product_id=4593</url>
+<name>Юбка Вера зеленая</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>VERA26</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
+<param name="Размер" unit="INT">XS</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленая</param>
+</offer>
+<offer id="4594" group_id="4597" available="true">
+<url>https://semplery.ru/catalog/woman/4597.html?product_id=4594</url>
+<name>Юбка Вера зеленая</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>VERA26</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
+<param name="Размер" unit="INT">S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленая</param>
+</offer>
+<offer id="4595" group_id="4597" available="true">
+<url>https://semplery.ru/catalog/woman/4597.html?product_id=4595</url>
+<name>Юбка Вера зеленая</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>VERA26</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
+<param name="Размер" unit="INT">M</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленая</param>
+</offer>
+<offer id="4596" group_id="4597" available="true">
+<url>https://semplery.ru/catalog/woman/4597.html?product_id=4596</url>
+<name>Юбка Вера зеленая</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>VERA26</vendorCode>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
+<param name="Размер" unit="INT">L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Зеленая</param>
 </offer>
 <offer id="4435" group_id="4437" available="true">
 <url>https://semplery.ru/catalog/woman/4437.html?product_id=4435</url>
