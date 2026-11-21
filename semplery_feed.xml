@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20T03:05:50+03:00">
+<yml_catalog date="2026-11-21T03:05:12+03:00">
 <shop>
 <name>SEMPLERY</name>
 <company>SEMPLERY</company>
@@ -9307,29 +9307,14 @@
 <currencyId>RUB</currencyId>
 <categoryId>12</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/21a/nc4vglkane1ul2a2exfb2g53g1ykau3y.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/378/tcpxq5vxh2wr1svc16t6gqtiqow2o2me.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/b2c/8ntm90a3598ycogedwlxhco3ct1wuhck.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/67b/1r50fqjcxen9wdgj7utk8hbc3xe456bb.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/6d7/6oabzspq5o1cygv41eol1srvqmwio2bo.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/9fe/n6iyuh59uc2ct0ffemugps7nrmrl7eof.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/d16/963qxh48pyfjpxbwxwurgzbqmaj9dwwy.JPG</picture>
 <description><![CDATA[Уютный вязаный свитер прямого свободного кроя в комплекте с объемным платком.]]></description>
 <param name="Размер">One Size</param>
 <param name="Пол">Женский</param>
 <param name="Цвет">Шоколадный</param>
-</offer>
-<offer id="4612" group_id="4613" available="true">
-<url>https://semplery.ru/catalog/woman/4613.html?product_id=4612</url>
-<name>Свитер Стелла красный</name>
-<vendor>SEMPLERY</vendor>
-<vendorCode>STELLA15</vendorCode>
-<price>11600</price>
-<currencyId>RUB</currencyId>
-<categoryId>12</categoryId>
-<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/428/woowjucfgau39xmnvdixprfq6xpo433v.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/282/sx2z6qwfmo4uph9idfq16yg5bz66vkw9.jpg</picture>
-<description><![CDATA[Мягкий базовый свитер свободного прямого силуэта.]]></description>
-<param name="Размер">One Size</param>
-<param name="Пол">Женский</param>
-<param name="Цвет">Красный</param>
 </offer>
 <offer id="4610" group_id="4611" available="true">
 <url>https://semplery.ru/catalog/woman/4611.html?product_id=4610</url>
@@ -9340,14 +9325,32 @@
 <currencyId>RUB</currencyId>
 <categoryId>12</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/3cc/h6tk545kfh9kj50owulymgi0vpe23hva.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/bc7/a499l0ob5ty9t9vrlgfilmdyj43l4njg.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/55c/yr5rhhuqn5mts1ug6wc8epf0kzyiex08.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/592/x86brspnl53hkgaii5p36tef300430uo.jpg</picture>
 <description><![CDATA[Мягкий базовый свитер свободного прямого силуэта.]]></description>
 <param name="Размер">One Size</param>
 <param name="Пол">Женский</param>
 <param name="Цвет">Коричневый</param>
+</offer>
+<offer id="4612" group_id="4613" available="true">
+<url>https://semplery.ru/catalog/woman/4613.html?product_id=4612</url>
+<name>Свитер Стелла красный</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>STELLA15</vendorCode>
+<price>11600</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/e18/6wivkpvdxywoa3ubt4wblyiuizk6y9jw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/cf2/dxkt2faqokqfiqveah8gyeyw43vvy78u.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/1c9/koeiw55d4rcpecbhf7fal3t724qgcmct.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/e2f/cvoumo0gelz8n5aoj0oo9godaevm9rot.JPG</picture>
+<description><![CDATA[Мягкий базовый свитер свободного прямого силуэта.]]></description>
+<param name="Размер">One Size</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Красный</param>
 </offer>
 <offer id="4588" group_id="4590" available="true">
 <url>https://semplery.ru/catalog/woman/4590.html?product_id=4588</url>
@@ -11439,8 +11442,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/a8e/uvtr67hhdjqm5wjif1rtec6w2eshhd6p.png</picture>
-<picture>https://semplery.ru/upload/iblock/00c/7nzvlxckjaap4b1tzu5smpnux6adeoog.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/c3e/hdbxhse7fgkjzm9ruewewy4pv0a8m20n.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/bc7/a499l0ob5ty9t9vrlgfilmdyj43l4njg.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/26b/v5zrp2da2v06ml2nwwznfq20f06l8won.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/55c/yr5rhhuqn5mts1ug6wc8epf0kzyiex08.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/592/x86brspnl53hkgaii5p36tef300430uo.jpg</picture>
 <description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
 <param name="Размер" unit="INT">XS-S</param>
 <param name="Пол">Женский</param>
@@ -11455,8 +11461,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/a8e/uvtr67hhdjqm5wjif1rtec6w2eshhd6p.png</picture>
-<picture>https://semplery.ru/upload/iblock/00c/7nzvlxckjaap4b1tzu5smpnux6adeoog.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/c3e/hdbxhse7fgkjzm9ruewewy4pv0a8m20n.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/bc7/a499l0ob5ty9t9vrlgfilmdyj43l4njg.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/26b/v5zrp2da2v06ml2nwwznfq20f06l8won.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/55c/yr5rhhuqn5mts1ug6wc8epf0kzyiex08.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/592/x86brspnl53hkgaii5p36tef300430uo.jpg</picture>
 <description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
 <param name="Размер" unit="INT">M</param>
 <param name="Пол">Женский</param>
@@ -11471,8 +11480,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/a8e/uvtr67hhdjqm5wjif1rtec6w2eshhd6p.png</picture>
-<picture>https://semplery.ru/upload/iblock/00c/7nzvlxckjaap4b1tzu5smpnux6adeoog.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/c3e/hdbxhse7fgkjzm9ruewewy4pv0a8m20n.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/bc7/a499l0ob5ty9t9vrlgfilmdyj43l4njg.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/26b/v5zrp2da2v06ml2nwwznfq20f06l8won.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/55c/yr5rhhuqn5mts1ug6wc8epf0kzyiex08.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/592/x86brspnl53hkgaii5p36tef300430uo.jpg</picture>
 <description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
 <param name="Размер" unit="INT">L</param>
 <param name="Пол">Женский</param>
@@ -11487,10 +11499,10 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/d31/81ykzpgui0tpduyktvhqyjvk4x4idatn.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/18e/yem8ni83illnmtksx3bf5fv4ha33yumz.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/b1c/i8offlgoh93wq3s025c30587x9c70pcx.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/a63/vyiqmjedllsl2wl0boz57rbo6rf0ev7i.jpg</picture>
 <description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
 <param name="Размер" unit="INT">XS-S</param>
 <param name="Пол">Женский</param>
@@ -11505,10 +11517,10 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/d31/81ykzpgui0tpduyktvhqyjvk4x4idatn.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/18e/yem8ni83illnmtksx3bf5fv4ha33yumz.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/b1c/i8offlgoh93wq3s025c30587x9c70pcx.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/a63/vyiqmjedllsl2wl0boz57rbo6rf0ev7i.jpg</picture>
 <description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
 <param name="Размер" unit="INT">M</param>
 <param name="Пол">Женский</param>
@@ -11523,10 +11535,10 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/bea/apabxmk7fd8xgb10sb1wdylwjba78jqk.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/55f/dakf4ypm2dzgly81759cgnvmbulx88rn.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/390/ofyn7uixln54z5furyvfgitza8b01u0i.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/889/edetal4j9y4srcoe9jrzgr5oupgmbgce.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/d31/81ykzpgui0tpduyktvhqyjvk4x4idatn.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/18e/yem8ni83illnmtksx3bf5fv4ha33yumz.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/b1c/i8offlgoh93wq3s025c30587x9c70pcx.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/a63/vyiqmjedllsl2wl0boz57rbo6rf0ev7i.jpg</picture>
 <description><![CDATA[Лаконичная юбка-мини А-силуэт.]]></description>
 <param name="Размер" unit="INT">L</param>
 <param name="Пол">Женский</param>
@@ -11541,9 +11553,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/a48/8m3dyoeisprqtlfhn7e9gaxrht2kr76h.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/423/4qkt89zy1wdywziqjkmfom0713g4at8u.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/0e2/5bzrqbmno3opzed6q4no8pt1oi2o77fw.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/f7f/4qhr9gn2wuv1uwe09lpy8k2ky8f4aq2w.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/279/rvt5ejjt34j2h3y3pkzbvst725uozoy4.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/61c/4w3x39xsd3c7dytm7ro5nnzg34bo0hxf.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/37a/fqo6c2pk312l164gtm2uzbfvu8ujpvea.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/2ed/igwitmrlnqhhjr9lqsfvqrau9hauobfp.JPG</picture>
 <description><![CDATA[Эффектная юбка-миди прямого кроя из плотного бархатного жаккарда с деликатным.]]></description>
 <param name="Размер" unit="INT">XS</param>
 <param name="Пол">Женский</param>
@@ -11558,9 +11572,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/a48/8m3dyoeisprqtlfhn7e9gaxrht2kr76h.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/423/4qkt89zy1wdywziqjkmfom0713g4at8u.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/0e2/5bzrqbmno3opzed6q4no8pt1oi2o77fw.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/f7f/4qhr9gn2wuv1uwe09lpy8k2ky8f4aq2w.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/279/rvt5ejjt34j2h3y3pkzbvst725uozoy4.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/61c/4w3x39xsd3c7dytm7ro5nnzg34bo0hxf.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/37a/fqo6c2pk312l164gtm2uzbfvu8ujpvea.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/2ed/igwitmrlnqhhjr9lqsfvqrau9hauobfp.JPG</picture>
 <description><![CDATA[Эффектная юбка-миди прямого кроя из плотного бархатного жаккарда с деликатным.]]></description>
 <param name="Размер" unit="INT">S</param>
 <param name="Пол">Женский</param>
@@ -11575,9 +11591,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/a48/8m3dyoeisprqtlfhn7e9gaxrht2kr76h.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/423/4qkt89zy1wdywziqjkmfom0713g4at8u.PNG</picture>
-<picture>https://semplery.ru/upload/iblock/0e2/5bzrqbmno3opzed6q4no8pt1oi2o77fw.PNG</picture>
+<picture>https://semplery.ru/upload/iblock/f7f/4qhr9gn2wuv1uwe09lpy8k2ky8f4aq2w.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/279/rvt5ejjt34j2h3y3pkzbvst725uozoy4.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/61c/4w3x39xsd3c7dytm7ro5nnzg34bo0hxf.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/37a/fqo6c2pk312l164gtm2uzbfvu8ujpvea.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/2ed/igwitmrlnqhhjr9lqsfvqrau9hauobfp.JPG</picture>
 <description><![CDATA[Эффектная юбка-миди прямого кроя из плотного бархатного жаккарда с деликатным.]]></description>
 <param name="Размер" unit="INT">M</param>
 <param name="Пол">Женский</param>
@@ -11592,9 +11610,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/49f/ngmeh5vwvxlc36r4hcvrd08oxm8ub3wq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/aee/2zuzmjxfksrfdko2gwow44x77bxa83kw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/60d/hdhrg2lescvpptgtoqqc6q9938ucoblb.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/7e9/wvsd9ootirmgvggkelbghyjupio16olq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/6cd/jw1mt1sb2g7fh3pxzh1sq47m3kpgdczd.jpg</picture>
 <description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
 <param name="Размер" unit="INT">XS</param>
 <param name="Пол">Женский</param>
@@ -11609,9 +11629,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/49f/ngmeh5vwvxlc36r4hcvrd08oxm8ub3wq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/aee/2zuzmjxfksrfdko2gwow44x77bxa83kw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/60d/hdhrg2lescvpptgtoqqc6q9938ucoblb.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/7e9/wvsd9ootirmgvggkelbghyjupio16olq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/6cd/jw1mt1sb2g7fh3pxzh1sq47m3kpgdczd.jpg</picture>
 <description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
 <param name="Размер" unit="INT">S</param>
 <param name="Пол">Женский</param>
@@ -11626,9 +11648,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/49f/ngmeh5vwvxlc36r4hcvrd08oxm8ub3wq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/aee/2zuzmjxfksrfdko2gwow44x77bxa83kw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/60d/hdhrg2lescvpptgtoqqc6q9938ucoblb.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/7e9/wvsd9ootirmgvggkelbghyjupio16olq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/6cd/jw1mt1sb2g7fh3pxzh1sq47m3kpgdczd.jpg</picture>
 <description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
 <param name="Размер" unit="INT">M</param>
 <param name="Пол">Женский</param>
@@ -11643,9 +11667,11 @@
 <currencyId>RUB</currencyId>
 <categoryId>16</categoryId>
 <sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
-<picture>https://semplery.ru/upload/iblock/9f7/uwner29x6a5nhg9tpguiewy73rdoy8an.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/567/sn6o15vgo2gqpibic6187bszl326zq5g.jpg</picture>
-<picture>https://semplery.ru/upload/iblock/2ca/ax1dtkzorl0kd2pnt3cinznfssbmnzka.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/49f/ngmeh5vwvxlc36r4hcvrd08oxm8ub3wq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/aee/2zuzmjxfksrfdko2gwow44x77bxa83kw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/60d/hdhrg2lescvpptgtoqqc6q9938ucoblb.JPG</picture>
+<picture>https://semplery.ru/upload/iblock/7e9/wvsd9ootirmgvggkelbghyjupio16olq.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/6cd/jw1mt1sb2g7fh3pxzh1sq47m3kpgdczd.jpg</picture>
 <description><![CDATA[Юбка длины мини А-силуэта из плотной жаккардовой ткани с выразительной.]]></description>
 <param name="Размер" unit="INT">L</param>
 <param name="Пол">Женский</param>
