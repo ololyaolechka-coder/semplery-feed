@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24T03:10:16+03:00">
+<yml_catalog date="2026-11-25T03:16:13+03:00">
 <shop>
 <name>SEMPLERY</name>
 <company>SEMPLERY</company>
@@ -11790,7 +11790,7 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Молочный</param>
 </offer>
-<offer id="4181" group_id="4185" available="true">
+<offer id="4181" group_id="4185" available="false">
 <url>https://semplery.ru/catalog/woman/4185.html?product_id=4181</url>
 <name>Юбка Гауди розовая</name>
 <vendor>SEMPLERY</vendor>
@@ -11882,7 +11882,7 @@
 <param name="Пол">Женский</param>
 <param name="Цвет">Розовый</param>
 </offer>
-<offer id="4178" group_id="4184" available="true">
+<offer id="4178" group_id="4184" available="false">
 <url>https://semplery.ru/catalog/woman/4184.html?product_id=4178</url>
 <name>Юбка Гауди ваниль</name>
 <vendor>SEMPLERY</vendor>
