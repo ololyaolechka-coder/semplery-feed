@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26T03:14:13+03:00">
+<yml_catalog date="2026-11-27T03:18:29+03:00">
 <shop>
 <name>SEMPLERY</name>
 <company>SEMPLERY</company>
@@ -3216,6 +3216,140 @@
 <param name="Размер" unit="INT">L</param>
 <param name="Пол">Женский</param>
 <param name="Цвет">Бежевый</param>
+</offer>
+<offer id="4631" group_id="4633" available="true">
+<url>https://semplery.ru/catalog/woman/4633.html?product_id=4631</url>
+<name>Юбка Фея крестная розовая</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>FAIRYSK4</vendorCode>
+<price>8600</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/8ee/usmsfs9fpidt1qcmu6874qmfs7ztwfmw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ded/q2bj2s3d8h2tek4th4slfn0jrrx8lu4h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/902/hwd7zbhnyiwi5kaq9cfjiyj0oujj1j3h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/a34/3h8or8jeb7cm7ix3frjrvrbu7j7ymwzx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/984/n0o91a3bo6zlvrsyqd8qr7rgny51funm.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/de9/iua7diqrewuyj9etoumxmrxhs1j0ame1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/556/0frp8dooiprgcge2oy2sspl68nr5dhd2.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/05a/zqai83bklivx93kmnpohg4a020fk8vrz.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/664/z6l2yrjh0pbafwqurwrymjvv1ue00i8l.jpg</picture>
+<description><![CDATA[Эффектная прямая юбка-мини.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+</offer>
+<offer id="4632" group_id="4633" available="true">
+<url>https://semplery.ru/catalog/woman/4633.html?product_id=4632</url>
+<name>Юбка Фея крестная розовая</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>FAIRYSK4</vendorCode>
+<price>8600</price>
+<currencyId>RUB</currencyId>
+<categoryId>16</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/8ee/usmsfs9fpidt1qcmu6874qmfs7ztwfmw.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ded/q2bj2s3d8h2tek4th4slfn0jrrx8lu4h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/902/hwd7zbhnyiwi5kaq9cfjiyj0oujj1j3h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/a34/3h8or8jeb7cm7ix3frjrvrbu7j7ymwzx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/984/n0o91a3bo6zlvrsyqd8qr7rgny51funm.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/de9/iua7diqrewuyj9etoumxmrxhs1j0ame1.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/556/0frp8dooiprgcge2oy2sspl68nr5dhd2.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/05a/zqai83bklivx93kmnpohg4a020fk8vrz.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/664/z6l2yrjh0pbafwqurwrymjvv1ue00i8l.jpg</picture>
+<description><![CDATA[Эффектная прямая юбка-мини.]]></description>
+<param name="Размер" unit="INT">M-L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+</offer>
+<offer id="4628" group_id="4630" available="true">
+<url>https://semplery.ru/catalog/woman/4630.html?product_id=4628</url>
+<name>Бомбер Фея крестная розовый</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>FAIRYBOM4</vendorCode>
+<price>16800</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/db1/fo5avmbq5dfr8y8wg98jw52zsleoshf6.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/357/wmqei9ox9nwsomn1pcdtus7umer9u2rz.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/6d4/rkslwv8svmxxa8xp5p1jn1gl84fp75f2.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b78/p3vdiy6iu034f8fnjhpoh0ys0903rvoe.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/902/hwd7zbhnyiwi5kaq9cfjiyj0oujj1j3h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/a34/3h8or8jeb7cm7ix3frjrvrbu7j7ymwzx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/984/n0o91a3bo6zlvrsyqd8qr7rgny51funm.jpg</picture>
+<description><![CDATA[Эффектный вечерний объемный бомбер на запах и лаконичной прямой юбки-мини.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+</offer>
+<offer id="4629" group_id="4630" available="true">
+<url>https://semplery.ru/catalog/woman/4630.html?product_id=4629</url>
+<name>Бомбер Фея крестная розовый</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>FAIRYBOM4</vendorCode>
+<price>16800</price>
+<currencyId>RUB</currencyId>
+<categoryId>12</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/db1/fo5avmbq5dfr8y8wg98jw52zsleoshf6.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/357/wmqei9ox9nwsomn1pcdtus7umer9u2rz.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/6d4/rkslwv8svmxxa8xp5p1jn1gl84fp75f2.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b78/p3vdiy6iu034f8fnjhpoh0ys0903rvoe.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/902/hwd7zbhnyiwi5kaq9cfjiyj0oujj1j3h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/a34/3h8or8jeb7cm7ix3frjrvrbu7j7ymwzx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/984/n0o91a3bo6zlvrsyqd8qr7rgny51funm.jpg</picture>
+<description><![CDATA[Эффектный вечерний объемный бомбер на запах и лаконичной прямой юбки-мини.]]></description>
+<param name="Размер" unit="INT">M-L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+</offer>
+<offer id="4625" group_id="4627" available="true">
+<url>https://semplery.ru/catalog/woman/4627.html?product_id=4625</url>
+<name>Костюм Фея крестная розовый</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>FAIRYMA4</vendorCode>
+<price>24400</price>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/513/0dwzhimlmpxz51o1tie4awnqi8f5k3ka.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/c55/kdpgb7gy7ovx2bgazt7ynndkx5h3iiyk.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ded/q2bj2s3d8h2tek4th4slfn0jrrx8lu4h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b78/p3vdiy6iu034f8fnjhpoh0ys0903rvoe.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/902/hwd7zbhnyiwi5kaq9cfjiyj0oujj1j3h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/a34/3h8or8jeb7cm7ix3frjrvrbu7j7ymwzx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/556/0frp8dooiprgcge2oy2sspl68nr5dhd2.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/05a/zqai83bklivx93kmnpohg4a020fk8vrz.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/664/z6l2yrjh0pbafwqurwrymjvv1ue00i8l.jpg</picture>
+<description><![CDATA[Эффектный вечерний комплект из объемного бомбера на запах и лаконичной прямой.]]></description>
+<param name="Размер" unit="INT">XS-S</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+</offer>
+<offer id="4626" group_id="4627" available="true">
+<url>https://semplery.ru/catalog/woman/4627.html?product_id=4626</url>
+<name>Костюм Фея крестная розовый</name>
+<vendor>SEMPLERY</vendor>
+<vendorCode>FAIRYMA4</vendorCode>
+<price>24400</price>
+<currencyId>RUB</currencyId>
+<categoryId>11</categoryId>
+<sales_notes>Оплата картой онлайн. Доставка СДЭК по России</sales_notes>
+<picture>https://semplery.ru/upload/iblock/513/0dwzhimlmpxz51o1tie4awnqi8f5k3ka.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/c55/kdpgb7gy7ovx2bgazt7ynndkx5h3iiyk.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/ded/q2bj2s3d8h2tek4th4slfn0jrrx8lu4h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/b78/p3vdiy6iu034f8fnjhpoh0ys0903rvoe.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/902/hwd7zbhnyiwi5kaq9cfjiyj0oujj1j3h.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/a34/3h8or8jeb7cm7ix3frjrvrbu7j7ymwzx.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/556/0frp8dooiprgcge2oy2sspl68nr5dhd2.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/05a/zqai83bklivx93kmnpohg4a020fk8vrz.jpg</picture>
+<picture>https://semplery.ru/upload/iblock/664/z6l2yrjh0pbafwqurwrymjvv1ue00i8l.jpg</picture>
+<description><![CDATA[Эффектный вечерний комплект из объемного бомбера на запах и лаконичной прямой.]]></description>
+<param name="Размер" unit="INT">M-L</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
 </offer>
 <offer id="4566" group_id="4568" available="true">
 <url>https://semplery.ru/catalog/woman/4568.html?product_id=4566</url>
